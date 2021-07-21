@@ -1,4 +1,4 @@
-package com.example.docker;
+package org.example.docker;
 
 import org.glassfish.jersey.server.ResourceConfig;
 import org.springframework.stereotype.Component;

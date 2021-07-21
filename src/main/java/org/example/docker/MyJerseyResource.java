@@ -1,4 +1,4 @@
-package com.example.docker;
+package org.example.docker;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
