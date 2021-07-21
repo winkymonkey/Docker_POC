@@ -5,10 +5,10 @@
 	
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.example.docker</groupId>
-	<artifactId>Container_01_MyFirstDocker</artifactId>
+	<artifactId>Docker_POC</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<name>Container_01_MyFirstDocker</name>
+	<name>Docker_POC</name>
 
 	<properties>
 		<java.version>1.8</java.version>
